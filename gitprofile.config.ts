@@ -57,12 +57,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'Xiran Zhang',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'xirrran_chu',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -124,10 +124,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Washington',
+      degree: 'Bachelor of Science',
+      from: '2023',
+      to: '2027',
     },
     {
       institution: 'Institution Name',
